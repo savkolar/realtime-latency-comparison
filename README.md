@@ -1,4 +1,4 @@
-#Original repo: https://github.com/aymenfurter/gpt-4o-latency-comparison <img width="809" height="35" alt="image" src="https://github.com/user-attachments/assets/cf990e5d-5610-4779-9967-08b9929b3063" />
+Original repo: <img width="809" height="35" alt="image" src="https://github.com/user-attachments/assets/cf990e5d-5610-4779-9967-08b9929b3063" />
 
 
 
